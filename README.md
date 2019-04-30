@@ -6,7 +6,7 @@ workshop. This material has been developed and is continuously evolved by
 [ThoughtWorks](www.thoughtworks.com/open-source) and has been presented in
 conferences such as: Yottabyte 2018, World AI Summit 2018, Strata London 2019,
 and others.
-
+ange
 ## Pre-Requisites
 
 In order to run this workshop, you will need:
